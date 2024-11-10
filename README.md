@@ -1,6 +1,6 @@
 # :eyes: Professional Development Tool - Projective Group
 
-![Jack's Portfolio Desktop](./media/Professional_Development_Tool.gif "Desktop Demo")
+![Jack's Portfolio Desktop](./media/ProfDevTool.gif "Desktop Demo")
 
 ## :memo: Description
 
