@@ -1,6 +1,6 @@
 # :eyes: Professional Development Tool - Projective Group
 
-![Jack's Portfolio Desktop](./Media/Professional%20Development%20Tool.gif "Desktop Demo")
+![Jack's Portfolio Desktop](./media/Professional%20Development%20Tool.gif "Desktop Demo")
 
 ## :white_check_mark: Requirements
 
